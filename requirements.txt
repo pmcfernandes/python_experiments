@@ -1,4 +1,6 @@
 jupyter
+ipython-sql
+cython
 spacy
 pt_core_news_sm
 
